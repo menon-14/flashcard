@@ -48,6 +48,14 @@ footer {
     height: 2rem;
 }
 
+.cartao__conteudo_resposta {
+    color: var(--card-back-color)
+}
+
+
+
+
+
 footer p {
     text-align: center;
     font-size: 0.7rem;
